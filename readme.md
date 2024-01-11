@@ -32,6 +32,7 @@ http://localhost:3000/developers
 
 Estos serán los usuarios a los que hay que acceder y en cada una de las páginas solo saldrán los que tengas las mismas especialidades:
 * Conjunto de Datos de Usuarios
+
 const usersData = [
   { id: 1, name: 'Alice', age: 28, specialty: 'marketing' },
   { id: 2, name: 'Bob', age: 35, specialty: 'developers' },
